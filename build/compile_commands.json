@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/hejiahan/Desktop/code/projects/cpp-file-scanner/build",
+  "command": "/usr/bin/clang++  -I/Users/hejiahan/Desktop/code/projects/cpp-file-scanner/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/cpp_file_scanner.dir/src/main.cpp.o -c /Users/hejiahan/Desktop/code/projects/cpp-file-scanner/src/main.cpp",
+  "file": "/Users/hejiahan/Desktop/code/projects/cpp-file-scanner/src/main.cpp",
+  "output": "CMakeFiles/cpp_file_scanner.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/hejiahan/Desktop/code/projects/cpp-file-scanner/build",
+  "command": "/usr/bin/clang++  -I/Users/hejiahan/Desktop/code/projects/cpp-file-scanner/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/cpp_file_scanner.dir/src/file_scanner.cpp.o -c /Users/hejiahan/Desktop/code/projects/cpp-file-scanner/src/file_scanner.cpp",
+  "file": "/Users/hejiahan/Desktop/code/projects/cpp-file-scanner/src/file_scanner.cpp",
+  "output": "CMakeFiles/cpp_file_scanner.dir/src/file_scanner.cpp.o"
+},
+{
+  "directory": "/Users/hejiahan/Desktop/code/projects/cpp-file-scanner/build",
+  "command": "/usr/bin/clang++  -I/Users/hejiahan/Desktop/code/projects/cpp-file-scanner/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/cpp_file_scanner.dir/src/path_utils.cpp.o -c /Users/hejiahan/Desktop/code/projects/cpp-file-scanner/src/path_utils.cpp",
+  "file": "/Users/hejiahan/Desktop/code/projects/cpp-file-scanner/src/path_utils.cpp",
+  "output": "CMakeFiles/cpp_file_scanner.dir/src/path_utils.cpp.o"
+}
+]
